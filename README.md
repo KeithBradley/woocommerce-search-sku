@@ -1,0 +1,1 @@
+# woocommerce-search-by-sku
