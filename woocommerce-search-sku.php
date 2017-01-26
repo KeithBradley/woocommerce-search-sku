@@ -1,7 +1,7 @@
 <?php
 /*
-	Plugin Name:          WooCommerce Search By SKU
-	Plugin URI:           https://github.com/logic-design/woocommerce-search-by-sku
+	Plugin Name:          WooCommerce Search SKU
+	Plugin URI:           https://github.com/logic-design/woocommerce-search-sku
 	Description:          Enables product searches using SKU's for WooCommerce themes 
 	Version:              1.0
 	Author:               Logic Design and Consultancy Ltd 
